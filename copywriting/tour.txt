@@ -1,0 +1,58 @@
+Administrasi Bisnis
+	Booking Dashboard
+	
+		screenshot: booking_db
+		screenshot: booking_db_2
+		
+		
+	Membuat kode booking otomatis
+		Kode booking dibuat secara otomatis dan kode tersebut unik (tidak duplikat) sehingga mencegah double booking.
+		
+		screenshot: kode_booking
+		
+	Cetak kwitansi DP
+		Bukti otentik bahwa customer telah membayar DP dan kasir telah menerima uang DP tersebut.
+		
+		screenshot: kwitansi_dp
+		
+	Cetak kwitansi pembayaran
+		Bukti otentik bahwa customer telah membayar sisa DP dan kasir telah menerima uang DP tersebut. 
+		
+		
+		screenshot: kwitansi_pembayaran
+	
+	Customer Database
+		Setiap booking yang dilakukan oleh customer tercatat di sistem sehingga memudahkan untuk 
+		data analisa sebagai dasar kegiatan marketing.
+		
+		screenshot: cust_db
+	
+		
+	
+	
+Customer Service
+	Cari Booking dengan mudah
+		Pencarian dapat menggunakan nama customer, kode booking, kode kwitansi, maupun nama lapangan yang di book.
+		
+		screenshot: booking_search_customer
+		screenshot: booking_search_kode_booking
+		screenshot: booking_search_kode_kwitansi
+		
+		
+		
+	Display jadwal booking di layar
+		Sama seperti menjual tiket bioskop di 21cineplex dimana customer dapat melihat sendiri bangku yang kosong
+		sehingga dapat membuat keputusan booking dengan cepat dan efisien. 
+		
+		screenshot: booking_schedule
+	
+Report
+	Recap data booking harian dan mingguan
+		screenshot: booking_report_daily
+		screenshot: booking_report_weekly
+		
+	
+	Recap data revenue harian dan mingguan
+	
+		screenshot: income_report_daily
+		screenshot: income_report_weekly

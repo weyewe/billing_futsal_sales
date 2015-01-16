@@ -1,0 +1,38 @@
+FutsalBilling
+Pro billing futsal software
+
+Manajemen bisnis lapangan futsal menjadi simple
+Tidak ada double booking dan mempercepat pelaporan keuangan
+
+Lihat Demo
+Pelajari Lebih Lanjut
+Beli Sekarang
+
+
+"Bisnis lapangan futsal itu mudah -- parkir cukup, pemain merasa nyaman, dan booking terhandle dengan baik. 
+FutsalBilling sangat membantu untuk mencegah kesalahan dalam booking dan membuat customer service menjadi baik
+karena semua data booking dapat diakses dengan cepat." -- Robert Wihono, pemilik Stadium Futsal
+
+Cetak konfirmasi booking, downpayment, dan pembayaran dari sistem
+	Tidak ada lagi pencatatan manual yang sangat berpotensi untuk salah. Selain itu,
+	karena konfirmasi booking dicetak dari sistem, sangat kecil ruang untuk terjadi kesalahan.
+	
+Sesuaikan software dengan bisnis anda: harga, jumlah lapangan.
+	Atur konfigurasi bisnis lapangan futsal anda via browser. Sesuaikan warna bookingan,
+	harga lapangan di hari normal sampai pada detail jam, dan harga lapangan di hari libur. 
+	
+Memperoleh informasi bisnis yang aktual dan faktual
+	Tidak perlu double input antara staff booking dan keuangan karena dilakukan secara otomatis 
+	pada saat transaksi terjadi. 
+
+Kerja dengan team
+	Anda dapat memberikan akses ke sistem kepada staff anda sehingga dapat mendelegasikan pekerjaan. 
+	FutsalBilling menyediakan 3 hak akses, yaitu: staff,manager, dan admin. Staff hanya dapat membuat 
+	booking sesuai dengan sistem yang telah ditentukan. Manager dapat
+	memberikan diskon dan free downpaymen. Admin dapat menambah user, melihat laporan keuangan. 
+	
+Diakses darimana saja
+	Karena FutsalBilling adalah web-based, dapat di akses darimana saja asalkan ada koneksi internet.
+	
+100% garansi: "Saya mengerti jika FutsalBilling tidak dapat mempermudah manajemen bisnis futsal saya, saya dapat 
+mengembalikan software ini dengan full refund dalam waktu 30 hari"
