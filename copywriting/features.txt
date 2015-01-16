@@ -1,0 +1,62 @@
+Lapangan
+	1. Jumlah lapangan tidak terbatas
+	2. Kustomisasi warna pengenal lapangan
+
+2. Customer DB
+ 1. Mendaftarkan informasi customer sehingga dapat dibuatkan booking
+
+Pricing sewa lapangan
+	1. Harga dasar sewa lapangan beserta jumlah DP yang harus dibayarkan
+	2. Flexible pricing sampai level jam. Misal: 
+			Untuk hari Senin, Selasa, Rabu, Kamis, dapat diatur bahwa
+				a. jam 7.00 sampai 13.00, harga sewa 150,000 IDR per jam.  
+				b. jam 13.00 sampai 19.00, harga sewa 200,000 IDR per jam
+				c. jam 19.00 sampai 23.00, harga sewa 250,000 IDR per jam
+
+	3. Harga khusus untuk spesifik hari besar (hanya untuk 1 hari saja, tidak berlaku pengulangan)
+			Misal, pada tanggal 17 Agustus 2015, harga booking sepanjang hari adalah 300,000 IDR per jam
+			
+
+				
+Booking management
+	1. Pemberian diskon
+	2. Anulir pembayaran DP 
+	3. Tidak ada double booking untuk lapangan yang sama di jam yang sama 
+	4. DP hangus karena tidak hadir
+	5. Kode booking unik yang tidak berulang untuk memudahkan pencarian
+	6. Kode penerimaan DP dan pembayaran unik tidak berulang 
+	7. Otomatis recap penerimaan income dari pembayaran DP dan sisanya 
+
+Multiple User dan Hak akses
+	1. Buat user-user baru untuk dapat login ke system
+	2. Setiap user memiliki login dan email terpisah
+	3. Setiap user memiliki role yang baku: staff data entry, manager, dan admin
+	4. Staff hanya dapat:
+			1. Input data booking
+			2. Konfirmasi penerimaan DP booking
+			3. Konfirmasi penerimaan sisa pembayaran DP booking
+			4. Menambahkan data customer
+	
+	4. Manager dapat:
+			1. Melakukan semua yang staff dapat lakukan
+			2. Membatalkan konfirmasi penerimaan DP
+			3. Membatalkan penerimaan pembayaran
+			4. Meng-anulir DP yang harus dibayarkan
+			5. Memberikan diskon kepada booking
+			
+	5. Admin dapat:
+			1. Menambahkan lapangan
+			2. Membuat aturan pricing di setiap lapangan
+			3. Membuat user baru
+			4. Mengganti hak akses user 
+			5. Delete user 
+			6. Melihat laporan keuangan: penerimaan harian dan mingguan
+			
+			
+
+
+
+
+
+
+
